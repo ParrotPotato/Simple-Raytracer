@@ -12,5 +12,5 @@ g++ main.cc -o [output-file]
 
 Renders which i was able to create 
 
-![first-image] (images/render1.png)
-![second-image] (images/render2.png)
+![first-image](images/render1.png)
+![second-image](images/render2.png)
